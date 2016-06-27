@@ -1,0 +1,38 @@
+[
+    {
+        "caption" : "Open In TotalCMD",
+        "command": "totalcmd"
+    },
+    {
+        "caption" : "Open In DoubleCMD",
+        "command": "doublecmd"
+    },
+    {
+        "caption" : "Open In CMDr",
+        "command": "cmdr"
+    },
+    {
+        "caption" : "Open In Notepad++",
+        "command": "npp"
+    },
+    {
+        "caption" : "Open In AkelPad",
+        "command": "akelpad"
+    },
+    {
+        "caption" : "Open In PSPad",
+        "command": "pspad"
+    },
+    {
+        "caption" : "Open In Notepad2",
+        "command": "npd2"
+    },
+    {
+        "caption" : "Open In Notepad (Windows)",
+        "command": "npd"
+    },
+    {
+        "caption" : "Open Files In Current Dir",
+        "command": "openfilesindir"
+    }
+]
